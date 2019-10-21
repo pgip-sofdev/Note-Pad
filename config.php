@@ -3,7 +3,7 @@
 
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 's6DktH2iLTdZkw16');
 define('DB_NAME', 'webpad');
  
 /* Attempt to connect to MySQL database */
